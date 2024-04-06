@@ -3,9 +3,9 @@
 - Secured sensitive functionalities by incorporating user authentication and authorization mechanisms within this application.
 
 # Group members
-Baltabayev Timur - 22B030322
-Daniyar Elaman - 22B031171
-Marat Rakhat - 22B031302
+- Baltabayev Timur - 22B030322
+- Daniyar Elaman - 22B031171
+- Marat Rakhat - 22B031302
 
 # Project description
 ExpenseTracker is a secure web application built with Express.js and Node.js. It enables users to efficiently manage expenses by providing robust APIs for data manipulation. With features like user authentication and authorization, ExpenseTracker ensures data security. Users can log in securely, add expenses, categorize them, and visualize spending patterns. Automatic logout enhances security, offering users a streamlined platform for effective expense management.
